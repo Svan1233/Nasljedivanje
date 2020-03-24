@@ -1,0 +1,6 @@
+C:\Users\Korisnik\source\repos\svanTipuricNasljedivanje\svanTipuricNasljedivanje\bin\Debug\svanTipuricNasljedivanje.exe.config
+C:\Users\Korisnik\source\repos\svanTipuricNasljedivanje\svanTipuricNasljedivanje\bin\Debug\svanTipuricNasljedivanje.exe
+C:\Users\Korisnik\source\repos\svanTipuricNasljedivanje\svanTipuricNasljedivanje\bin\Debug\svanTipuricNasljedivanje.pdb
+C:\Users\Korisnik\source\repos\svanTipuricNasljedivanje\svanTipuricNasljedivanje\obj\Debug\svanTipuricNasljedivanje.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\svanTipuricNasljedivanje\svanTipuricNasljedivanje\obj\Debug\svanTipuricNasljedivanje.exe
+C:\Users\Korisnik\source\repos\svanTipuricNasljedivanje\svanTipuricNasljedivanje\obj\Debug\svanTipuricNasljedivanje.pdb
